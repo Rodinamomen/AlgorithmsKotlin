@@ -1,4 +1,4 @@
-package search
+package problems
 
 fun search(nums: IntArray, target: Int): Int {
     var high = nums.lastIndex

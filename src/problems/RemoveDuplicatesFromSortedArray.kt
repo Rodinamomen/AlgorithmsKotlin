@@ -1,4 +1,4 @@
-package search
+package problems
 
 /**
  * Removes duplicates from a sorted integer array **in-place**, returning the count
